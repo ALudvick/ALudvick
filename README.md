@@ -36,20 +36,53 @@ Languages and Tools 💻
 
 Редко используемые:
 <p align="left">
-      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="32" height="32"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="32" height="32"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Sdk" width="48" height="32"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="72" height="32"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash shell" width="72" height="32"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="26" height="26"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="24" height="24"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Sdk" width="32" height="24"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="42" height="28"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash shell" width="42" height="28"/>
 </p>
 
 My projects 🎱
 ---------------------
 
- 
-<p align="left">
-      <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Coding" />
-</p>
+<hr>
+<div class="row">
+      <img src="./resources/images/project-pechenka/bot-screen-03.png" alt="Screen01" height="128">
+      <img src="./resources/images/project-pechenka/bot-screen-02.png" alt="Screen01" height="128">
+      <img src="./resources/images/project-pechenka/bot-screen-01.png" alt="Screen01" height="128">
+</div>
+<div class="row">
+  <div class="column">
+        <strong>Fortune Pechenka Bot</strong>
+  </div>
+  <div class="column">
+        <em>Link: https://t.me/FortunePechenka_bot</em>
+  </div>
+  <div class="column">
+        <p>About: telegram-bot, that sends one message per day and tell user his fortune! </p>
+  </div>
+</div>
+
+<hr>
+
+<div class="row">
+      <img src="./resources/images/project-egg-master/egg-master-003.png" alt="Screen01" height="256" hspace="10">
+      <img src="./resources/images/project-egg-master/egg-master-002.png" alt="Screen01" height="256" hspace="10">
+</div>
+<div class="row">
+  <div class="column">
+        <strong>Egg Master</strong>
+  </div>
+  <div class="column">
+        <em>Link: https://play.google.com/store/apps/details?id=me.ludvick.eggtimer</em>
+  </div>
+  <div class="column">
+        <p>About: Tired of imperfect eggs? With the Egg Master app, your eggs will be exactly the way you want them to be. Namely: in a bag, hard-boiled, soft-boiled and even poached! </p>
+  </div>
+</div>
+
+<hr>
  
 
 Special thanks 🫀 
