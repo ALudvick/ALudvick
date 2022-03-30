@@ -9,16 +9,16 @@
 About me 👾
 ---------------------
 
-Привет! Меня зовут Александр, я программирую на Java. После 8 лет работы в игровой индустрии я кардинально сменил профессию в 30. Учился самостоятельно и сейчас работаю в Сбере — пишу скрипты, заглушки и эмуляторы. Ещё немного обо мне:
-*   🌱 начинал карьеру в gamedev с QA (manual testing)
-*   ☕️ имею 3 года опыта в работе с Java
-*   📲 в свободное время создаю приложения для Google Play и ботов для мессенджеров
-*   🎮 обожаю видеоигры
+Hi! My name is Aleksandr and i'm Java developer. I'm worked 8 years in gaming industry as manual tester and game designer. After that I radically changed my profession at the 30 age. I learned programming on my own and now worked in Sber (Lead IT company in Russia). I write scripts, stubs, emulators. A little more about me: 
+*   🌱 started career at gamedev as QA (manual testing)
+*   ☕️ i have more than 3 yeras of experience with Java
+*   📲 in my free time I create applications for Google Play and bots for messanges
+*   🎮 i really love video games
 
 Languages and Tools 💻
 ---------------------
 
-Часто используемые:
+Often use:
 <p align="left">
       <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="32" height="32"/>
       <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IDEA" width="32" height="32"/>
@@ -34,7 +34,7 @@ Languages and Tools 💻
       <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="32" height="32"/>
 </p>
 
-Редко используемые:
+Rarely used:
 <p align="left">
       <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="26" height="26"/>
       <img src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg" alt="Kotlin" width="24" height="24"/>
