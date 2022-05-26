@@ -14,7 +14,7 @@ Worked 8 years in gaming industry as manual tester and game designer.
 After that, I radically changed my profession at my 30 age.
 
  I learned programming on my own and now coding for the leadind IT company in Russia, Sber.
- Creating {dificult} scripts, stubs, emulators...
+ Creating various scripts, stubs, emulators...
  A little more about me: 
 *   🌱 started career at gamedev as QA (manual testing)
 *   ☕️ i have more than 3 yeras of experience with Java
