@@ -9,7 +9,13 @@
 About me 👾
 ---------------------
 
-Hi! My name is Aleksandr and i'm Java developer. I'm worked 8 years in gaming industry as manual tester and game designer. After that I radically changed my profession at the 30 age. I learned programming on my own and now worked in Sber (Lead IT company in Russia). I write scripts, stubs, emulators. A little more about me: 
+Hi! My name is Aleksandr and i'm Java developer. 
+Worked 8 years in gaming industry as manual tester and game designer.
+After that, I radically changed my profession at my 30 age.
+
+ I learned programming on my own and now coding for the leadind IT company in Russia, Sber.
+ Creating {dificult} scripts, stubs, emulators...
+ A little more about me: 
 *   🌱 started career at gamedev as QA (manual testing)
 *   ☕️ i have more than 3 yeras of experience with Java
 *   📲 in my free time I create applications for Google Play and bots for messanges
